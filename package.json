@@ -1,0 +1,27 @@
+{
+  "name": "test-xml-performance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larshp/test-xml-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larshp/test-xml-performance/issues"
+  },
+  "homepage": "https://github.com/larshp/test-xml-performance#readme",
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0",
+    "saxes": "^5.0.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3",
+    "xml-js": "^1.6.11"
+  }
+}
